@@ -14,7 +14,7 @@ import {
 import { defaultStyles } from './styles';
 
 const { width, height } = Dimensions.get('window');
-const defaultHeight = height * 0.67;
+const defaultHeight = height * 0.70;
 
 export default class MoviePopup extends Component {
 
